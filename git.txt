@@ -10,7 +10,7 @@ git push -u origin master
 git remote add origin https://github.com/IshaqKHATTAK/Git-practice.git
 git push -u origin master (where -u used for upstreamed branchc master)
         (Give username IshaqKHATTAK)
-        (Give secrete keys generated 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)
+        (Give secrete keys generated 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)
         
 
 2. following the second method
@@ -25,6 +25,8 @@ git add remote
 git branch <branch_name> 
 git checkout <branch_name>
 from new branch branch make chenges add commit the files and push
+git branch --merged 
+git branch –no-merged 
 
 now back to master branch 
 first clone the repo then 
