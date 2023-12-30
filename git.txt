@@ -19,4 +19,9 @@ git add commit
 git push -u origin master (give username and secet keys)
 
 
+git remote
+git add remote
+
+git branch <branch_name> 
+git checkout <branch_name>
 
