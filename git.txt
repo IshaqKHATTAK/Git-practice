@@ -1,3 +1,22 @@
 two ways to start with git
 1.   initialize the current git repo with git init and then commit and push
-1.   clone repo from git using git <url> <new_name_of_repo>
+2.   clone repo from git using git <url> <new_name_of_repo>
+follwing method 1
+git init
+git add . 
+git commit -m "mesege"
+git add origin <url>
+git push -u origin master
+git remote add origin https://github.com/IshaqKHATTAK/Git-practice.git
+git push -u origin master (where -u used for upstreamed branchc master)
+        (Give username IshaqKHATTAK)
+        (Give secrete keys generated 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)
+        
+
+2. following the second method
+git clone <URL>
+git add commit
+git push -u origin master (give username and secet keys)
+
+
+
