@@ -24,3 +24,14 @@ git add remote
 
 git branch <branch_name> 
 git checkout <branch_name>
+from new branch branch make chenges add commit the files and push
+
+now back to master branch 
+first clone the repo then 
+git merge <branch_name>
+git status will show unmerged files
+if conflict remove manually by opening file
+git add <file_name>
+git commit 
+git push
+
