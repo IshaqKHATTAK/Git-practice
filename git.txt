@@ -1,0 +1,3 @@
+two ways to start with git
+1.   initialize the current git repo with git init and then commit and push
+1.   clone repo from git using git <url> <new_name_of_repo>
